@@ -1,0 +1,1 @@
+Este projeto amigo secreto permite que você entre com nomes de pessoas através do botão "adicionar" e depois solicite através do botão "Sortear amigo" que seja feito o sorteio e será retornado o nome do amigo sorteado.# amigo-secreto
